@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-12-008",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-06-12T01:01:13.205179+00:00",
+  "summary": "Pi 是一个 AI 智能体工具包，提供统一的 LLM API 接口、智能体循环、终端用户界面（TUI）和编码智能体命令行界面（CLI）。它旨在简化多模型集成和智能体工作流开发，支持快速构建交互式 AI 应用。",
+  "tags": [
+    "AI agent",
+    "LLM API",
+    "TUI",
+    "CLI",
+    "toolkit"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过统一 API 和内置循环，Pi 降低了构建多模型智能体的门槛，尤其适合需要终端交互的开发者。"
+}
