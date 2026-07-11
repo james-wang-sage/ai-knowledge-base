@@ -3,6 +3,10 @@
 黄佳《极客时间 LoopEngineering 工程化》课程笔记，来源 PDF：`极客时间 LoopEngineering工程化-黄佳.pdf`。
 每篇笔记对应 PDF 中的一页幻灯片，配图见 `images/`。
 
+## 综合方法论
+
+- [Loop Engineering：新 Agent 从零到上线的方法论与实践建议](LoopEngineering方法论与实践建议.md) — 融合整套课件后的实操框架，并加入对静态 DAG、状态拆分、模型自评、HITL、幂等、安全与渐进复杂化的独立建议。
+
 ## 笔记目录
 
 1. [工程师新能力四象限](01.工程师新能力四象限.md)
