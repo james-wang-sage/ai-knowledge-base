@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Communication
+
+Reply in Chinese by default.
+
 ## Project overview
 
 This repo is a teaching project (course material, see `docs/*.pdf` — 极客时间 LoopEngineering) that builds the **same AI knowledge-base pipeline four times**, each version adding one layer of agent-engineering sophistication on top of the last. All four versions coexist side by side as independent, runnable projects — they are not branches, they are the curriculum:
